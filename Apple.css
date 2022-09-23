@@ -1,0 +1,425 @@
+body{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.header{
+    height: 44px;
+    width: 1440px;
+    background-color: rgb(57, 55, 55);
+    top: -7px;
+    left: -8px;
+    position: relative;
+}
+.logo{
+    left: 235px;
+    position: relative;
+}
+.header a{
+    color:#f5f7fad1;
+    text-decoration: none;
+    padding: 19px;
+    left: 253px;
+    top: -14px;
+    position: relative;
+    font-family: sans-serif;
+    font-size:12px;
+}
+.header a:hover{
+    color: whitesmoke;
+}
+.header img{
+    color:#f5f7fad1;
+    top: 5px;
+    position: relative;
+    height:20px;
+    width:20px;
+}
+.donation{
+    height:72px;
+    width: 1440px;
+    top: -7px;
+    left: -8px;
+    position: relative;
+    background-color: #f5f7fa;
+}
+.donation img{
+    background-color: #f5f7fa;
+    height: 32px;
+    width: 122px;
+    top: 19px;
+    left: 476px;
+    position: relative;
+}
+.donation a{
+    font-size: 14px;
+    top: 10px;
+    left: 490px;
+    position: relative;
+    color: #06c;
+    text-decoration: none;
+}
+.donation a:hover{
+    text-decoration: underline;
+}
+.iphone13{
+    top: -50px;
+    right: 10px;
+    position: relative;
+    height: 592px;
+    width: 1440px;
+    background-image: url("./images/iphone13.jpeg");
+    background-size:3008px 624px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.iphone13 h1{
+    top: 51px;
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 450;
+}
+.iphone13 p{
+    top: 25px;
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 350;
+}
+.iphone13 a{
+    color: #06c;
+    text-align: center;
+    font-size: 20px;
+    left: 590px;
+    top: 10px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.iphone13 a:hover{
+    text-decoration: underline;
+}
+.iphonese{
+    height: 624px;
+    width: 1440px;
+    right: 10px;
+    position: relative;
+    top: -58px;
+    background-image: url("./images/se.jpeg");
+    background-repeat: no-repeat;
+    background-size:3008px 624px;
+    background-position: center;
+}
+.iphonese p{
+    position: relative;
+    top: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 450;
+}
+.iphonese h1{
+    position: relative;
+    top: 10px;
+    left: 595px;
+    font-size: 55px;
+    font-weight: 450;
+}
+.se{
+    border: 4px solid black;
+    height: 35px;
+    width: 41px;
+    position: relative;
+    left: 785px;
+    font-size: 30px;
+    padding-top: 10px;
+    margin-top: -140px;
+    border-radius: 13px;
+    font-weight: 600;
+}
+.iphonese h2{
+    position: relative;
+    font-weight: 350;
+    top: 40px;
+    left: 516px;
+    font-size: 29px;
+}
+.iphonese a{
+    color: #06c;
+    text-align: center;
+    font-size: 20px;
+    left: 590px;
+    top: 30px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.iphonese a:hover{
+    text-decoration: underline;
+}
+.iwatch{
+    height: 624px;
+    width: 1440px;
+    right: 10px;
+    position: relative;
+    top: -45px;
+    background-image: url("./images/iwatch.jpeg");
+    background-repeat: no-repeat;
+    background-size:3008px 624px;
+    background-position: center;
+}
+.iwatch img{
+    position: relative;
+    top: 80px;
+    left: 630px;
+}
+.iwatch h2{
+    position: relative;
+    font-weight: 350;
+    top: 70px;
+    left: 554px;
+    font-size: 29px;
+}
+.iwatch a{
+    color: #06c;
+    text-align: center;
+    font-size: 20px;
+    left: 590px;
+    top: 60px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.iwatch a:hover{
+    text-decoration: underline;
+}
+.wwdc22{
+    height: 624px;
+    width: 702px;
+    position: relative;
+    top: -25px;
+    left: 3px;
+    background-image: url("./images/wwdc22.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1314px 624px;
+}
+.wwdc22 img{
+    position: relative;
+    top: 405px;
+    left: 200px;
+}
+.wwdc22 h2{
+    position: relative;
+    font-weight: 350;
+    top: 404px;
+    left: 5px;
+    line-height:10px;
+    font-size: 21px;
+    color:#f5f7f7;
+    text-align: center;
+}
+.wwdc22 a{
+    color: #06c;
+    text-align: center;
+    font-size: 18px;
+    left: 300px;
+    top: 410px;
+    position: relative;
+    text-decoration: none;
+    font-weight: 350;
+}
+.wwdc22 a:hover{
+    text-decoration: underline;
+}
+.ipadair{
+    height: 624px;
+    width: 702px;
+    border: 1px solid black;
+    position: relative;
+    top: -651px;
+    left: 718px;
+    background-image: url("./images/ipadair.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1314px 624px;
+}
+.ipadair img{
+    background-color: black;
+    position: relative;
+    top: 80px;
+    left: 270px;
+}
+.ipadair p{
+    font-size: 21px;
+    color: #f5f7f7;
+    font-weight: 350;
+    position: relative;
+    top: 60px;
+    left: 228px;
+}
+.ipadair a{
+    color: #06c;
+    text-align: center;
+    font-size: 17px;
+    left: 230px;
+    top: 50px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.ipadair a:hover{
+    text-decoration: underline;
+}
+.studio{
+    position: relative;
+    height:624px;
+    width: 702px;
+    top: -660px;
+    left: 3px;
+    background-image: url("./images/desktop.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1314px 624px;    
+}
+.studio h1{
+    position: relative;
+    top: 42px;
+    font-weight: 500;
+    font-size: 40px;
+    left:220px;
+}
+.studio p{
+    position: relative;
+    top: 28px;
+    left: 263px;
+    font-size: 23px;
+    font-weight: 350;
+}
+.studio a{
+    color: #06c;
+    text-align: center;
+    font-size: 17px;
+    left: 230px;
+    top: 20px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.studio a:hover{
+    text-decoration: underline;
+}
+.mac{
+    height: 624px;
+    width: 702px;
+    position: relative;
+    top: -1311px;
+    left: 718px;
+    background-image: url("./images/mac.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1314px 624px; 
+}
+.mac h1{
+    position: relative;
+    top: 42px;
+    font-weight: 500;
+    font-size: 40px;
+    left:260px;
+}
+.mac p{
+    position: relative;
+    top: 28px;
+    left: 280px;
+    font-size: 23px;
+    font-weight: 350;
+}
+.mac a{
+    color: #06c;
+    text-align: center;
+    font-size: 17px;
+    left: 253px;
+    top: 20px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.mac a:hover{
+    text-decoration: underline;
+}
+.gift{
+    position: relative;
+    height:624px;
+    width: 702px;
+    top: -1295px;
+    left: 3px;
+    background-image: url("./images/gift.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1314px 624px;    
+}
+.gift p{
+    position: relative;
+    font-size: 23px;
+    font-weight: 450;
+    top: 40px;
+    left: 275px;
+}
+.gift h1{
+    position: relative;
+    top: 38px;
+    font-weight: 450;
+    font-size: 38px;
+    left: 150px;
+    line-height: 17px;
+}
+.gift a{
+    color: #06c;
+    text-align: center;
+    font-size: 17px;
+    left: 301px;
+    top: 40px;
+    position: relative;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: 350;
+}
+.gift a:hover{
+    text-decoration: underline;
+}
+.tv{
+    height: 624px;
+    width: 702px;
+    position: relative;
+    top: -1921px;
+    left: 718px;
+    border: 1px solid black;
+    background-image: url("./images/tv.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1314px 624px;  
+}
+.tvlogo{
+    position: relative;
+    top:25px;
+    left: 318px;
+}
+.tvpachinko{
+    position: relative;
+    top: 427px;
+    left: 70px;
+}
+.tv p{
+    color: #f5f7f7;
+    font-size: 22px;
+    font-weight: 350;
+    position: relative;
+    top: 430px;
+    text-align: center;
+    line-height: 16px;
+}
